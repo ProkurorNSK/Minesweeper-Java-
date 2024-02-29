@@ -4,8 +4,8 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
-    final static int height = 10;
-    final static int width = 10;
+    final static int height = 9;
+    final static int width = 9;
     final static char[][] field = new char[height][width];
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
